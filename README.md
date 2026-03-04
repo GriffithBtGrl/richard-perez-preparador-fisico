@@ -34,5 +34,5 @@ El objetivo del proyecto es presentar sus servicios, experiencia y facilitar el 
 
 ## 👩‍💻 Desarrollo
 
-Sitio desarrollado por **[TU NOMBRE]**  
+Sitio desarrollado por Catalina Ossandón. 
 Front-end Developer
