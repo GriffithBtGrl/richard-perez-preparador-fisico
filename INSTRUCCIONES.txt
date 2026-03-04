@@ -1,0 +1,21 @@
+SITIO WEB – Richard Perez Bran
+
+Este archivo contiene la versión final del sitio web.
+
+INSTRUCCIONES BÁSICAS:
+
+1. Para cambiar textos:
+   Editar el archivo "index.html".
+
+2. Para cambiar imágenes:
+   Reemplazar las imágenes dentro de la carpeta:
+   /assets/img/
+
+   (Mantener el mismo nombre del archivo para que no se rompa el diseño).
+
+3. No eliminar ni cambiar la estructura de carpetas.
+
+4. Para mover el sitio a otro hosting:
+   Subir todos los archivos incluidos en este paquete manteniendo la estructura original.
+
+Ante cualquier duda o ajuste, contactar a la desarrolladora.
