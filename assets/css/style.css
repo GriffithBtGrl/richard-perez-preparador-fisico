@@ -88,13 +88,6 @@ body {
   color: var(--white);
 }
 
-/* .logo {
-  font-family: 'Oswald', sans-serif;
-  font-size: 1.5rem;
-  color: var(--white);
-  letter-spacing: 2px;
-} */
-
 .nav-links {
   list-style: none;
   display: flex;
